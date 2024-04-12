@@ -224,3 +224,4 @@ function validateForm() {
 function showAlertAndRedirect() {
   alert('Thank you for subscribing!');
 }
+
